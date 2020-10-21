@@ -1,0 +1,3 @@
+/Users/christopherurangwa/CLionProjects/ATM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/christopherurangwa/CLionProjects/ATM/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/christopherurangwa/CLionProjects/ATM/cmake-build-debug/CMakeFiles/ATM.dir
